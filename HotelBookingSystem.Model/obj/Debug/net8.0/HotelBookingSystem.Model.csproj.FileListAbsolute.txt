@@ -1,0 +1,13 @@
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\bin\Debug\net8.0\HotelBookingSystem.Model.deps.json
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\bin\Debug\net8.0\HotelBookingSystem.Model.dll
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\bin\Debug\net8.0\HotelBookingSystem.Model.pdb
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.csproj.AssemblyReference.cache
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.AssemblyInfoInputs.cache
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.AssemblyInfo.cs
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.sourcelink.json
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.dll
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\refint\HotelBookingSystem.Model.dll
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\HotelBookingSystem.Model.pdb
+C:\Users\training.3\source\repos\HotelBookingSystem\HotelBookingSystem.Model\obj\Debug\net8.0\ref\HotelBookingSystem.Model.dll
